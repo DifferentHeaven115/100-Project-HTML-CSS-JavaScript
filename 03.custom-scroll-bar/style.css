@@ -1,0 +1,21 @@
+* {
+  height: 300px;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 300vh;
+  background-color: white;
+}
+
+::-webkit-scrollbar {
+  background-color: transparent;
+  width: 18px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(#fada61, #ff5acd);
+  border-radius: 10px;
+}
