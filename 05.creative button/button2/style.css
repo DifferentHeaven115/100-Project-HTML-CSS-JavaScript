@@ -50,7 +50,7 @@ a::after {
   transform: rotateX(270deg);
   transform-origin: top;
   transition: all 0.5s;
-  transition-delay: 0.25s;
+  transition-delay: 0.15s;
 }
 
 a:hover::before,
